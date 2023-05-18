@@ -10,3 +10,5 @@
     - Api.Tests - api layer tests
     - BusinessLogic.Tests - business layer tests
     - DataAccess.Tests - data layer tests
+## How to run
+Paste your TwitterApi token to appsettings.json
